@@ -1,4 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/AmyangXYZ/AmyangXYZ/main/amyangxyz.svg?)
+![Metrics](https://raw.githubusercontent.com/AmyangXYZ/AmyangXYZ/main/amyangxyz.svg)
 
 <!--
 **AmyangXYZ/AmyangXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
